@@ -1,5 +1,5 @@
 token=NTcyMDg1NjUxMDkzMzIzODQ2.XMXKgg.Sz0SXtmeB0KbW5F7uEWYReMVCwo
-owner=525747880242446342
+owner=352807943839940618
 prefix= B
 game= "Algeria Me Amoor.
 stayinchannel=true
